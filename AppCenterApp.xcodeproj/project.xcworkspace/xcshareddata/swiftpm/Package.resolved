@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "appcenterpackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Sreekanth-Reddy-GB/AppCenterPackage.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "febf33ba2979d79521140f599e826affa01e5502"
+      }
+    }
+  ],
+  "version" : 2
+}
